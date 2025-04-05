@@ -7,7 +7,6 @@
 </div>
 
 <br clear="both">
-<br clear="both">
 
 <p>
   Hello 👋, I'm Gustavo! A passionate programming student from Brazil.
@@ -17,13 +16,34 @@
   - 🔭 Looking for my first job opportunity in Web Development.
 </p>
 
-<details>
-  <summary>👨‍💻 More About Me</summary>
-
+<p>👨‍💻 More About Me
+  
   - 💬 Currently living in São Paulo, Brazil. I have experience with JavaScript, HTML5, CSS, TypeScript, React, and Node.js, as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
 
   - ⚡ I enjoy reading, watching movies, and series! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
-</details>
+</p>
+
+---
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+
+</div>
+
+<br clear="both">
+<br clear="both">
+
+---
 
 <br clear="both">
 
@@ -34,18 +54,6 @@
 </div>
 
 <br clear="both">
-<br clear="both">
-
-<div align="center"> 
-<a href="mailto:gustavohsantoscontato@gmail.com">
-<img align="center"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-<a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank>
-<img align="center"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
-</div>
 
 <div align="center" >
    
@@ -53,70 +61,20 @@
 
 </div>
 
-<br clear="both">
-
-### Main skills:
-<div align="left"> 
-<img align="left" height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left" height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-</div>
-
 <br>
-<br> 
-<br>
-<br>
-<br>
-<br>
-
-<h2 align="left"> Studying in this moment: </h2>
-
-<div align="left"> 
-<img align="left" height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="70" width="70" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-</div>
-
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
 
 <div align="center">
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=Gustavo-Santos-Dev&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=" /></p> 
-<br>
+<p align="center"><b>Visitors Count</b></p> 
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Gustavo-Santos-Dev&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
 </div>
 
-<br clear="both">
-<br clear="both">
+<br>
 
 <div align="center">
 <h3> Contact Me </h3>
-<a href="https://wa.me/5511916910973?text=Hi!" target="_blank">
-<img align="center" height="30" src="https://img.shields.io/badge/Whatsapp-25D366?logo=whatsapp&logoColor=white">
-</a>
+<a href="https://wa.me/5511916910973?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-<br clear="both">
-<br clear="both">
-<br clear="both">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
