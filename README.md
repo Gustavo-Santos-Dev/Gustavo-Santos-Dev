@@ -2,30 +2,30 @@
 
 <div align="center">
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+my+name+is+Gustavo.;I'm+a+Web+Developer.;+Welcome+to+my+profile!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+meu+nome+é+Gustavo.;Sou+um+Desenvolvedor+Web.;+Bem-Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
  
 </div>
 
 <br clear="both">
 
 <p>
-  Hello 👋, I'm Gustavo! A passionate programming student from Brazil.
+  Olá 👋, sou o Gustavo! Um estudante brasileiro apaixonado por programação.
 
-  - 🌱 I'm currently studying Full-Stack Development in a technical course called **DevClub**.
+  - 🌱 Atualmente estou estudando Desenvolvimento Full-Stack na Escola de Formação DNC e, no curso técnico chamado **DevClub**.
 
-  - 🔭 Looking for my first job opportunity in Web Development.
+  - 🔭 Estou procurando minha primeira oportunidade de emprego em Desenvolvimento Web.
 </p>
 
-<p>👨‍💻 More About Me
+<p>👨‍💻 Mais sobre mim
   
-  - 💬 Currently living in São Paulo, Brazil. I have experience with JavaScript, HTML5, CSS, TypeScript, React, and Node.js, as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
+  - 💬 Atualmente morando em São Paulo, Brasil. Tenho experiência com JavaScript, HTML5 e CSS, além de algumas metodologias ágeis muito úteis na área de tecnologia, incluindo PDCA, Kanban e 5W2H.
 
-  - ⚡ I enjoy reading, watching movies, and series! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
+  - ⚡ Gosto de ler, ouvir músicas e assistir filmes! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e ajudam na resolução de problemas.
 </p>
 
 ---
 
-### Main skills:
+### Minhas skills:
 <div align="left"> 
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -64,14 +64,14 @@
 <br>
 
 <div align="center">
-<p align="center"><b>Visitors Count</b></p> 
+<p align="center"><b>Contador de Visitas</b></p> 
 <img align="center" src="https://visit-counter.vercel.app/counter.png?page=Gustavo-Santos-Dev&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
 </div>
 
 <br>
 
 <div align="center">
-<h3> Contact Me </h3>
+<h3> Fale comigo </h3>
 <a href="https://wa.me/5511916910973?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
