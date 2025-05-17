@@ -12,8 +12,6 @@
   Olá 👋, sou o Gustavo! Um estudante brasileiro apaixonado por programação.
 
   - 🌱 Atualmente estou estudando Desenvolvimento Full-Stack na Escola de Formação DNC e, no curso técnico chamado **DevClub**.
-
-  - 🔭 Estou procurando minha primeira oportunidade de emprego em Desenvolvimento Web.
 </p>
 
 <p>👨‍💻 Mais sobre mim
