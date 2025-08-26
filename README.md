@@ -9,14 +9,15 @@
 <br clear="both">
 
 <p>
-  Olá 👋, sou o Gustavo! Um estudante brasileiro apaixonado por programação.
+  Olá 👋, sou o Gustavo! Um estudante brasileiro apaixonado por programação e tecnologia.
 
-  - 🌱 Atualmente estou estudando Desenvolvimento Full-Stack na Escola de Formação DNC e, no curso técnico chamado **DevClub**.
+  - 🌱 Atualmente estou estudando Desenvolvimento Full-Stack na Escola de Formação DNC e, no curso técnico chamado **DevClub**. Além de cursar superior em **Análise e Desenvolvimento de Sistemas**, no Grupo UniAnchieta.
+
 </p>
 
 <p>👨‍💻 Mais sobre mim
   
-  - 💬 Atualmente morando em São Paulo, Brasil. Tenho experiência com JavaScript, HTML5 e CSS, além de algumas metodologias ágeis muito úteis na área de tecnologia, incluindo PDCA, Kanban e 5W2H.
+  - 💬 Atualmente morando em São Paulo, Brasil. Tenho experiência com JavaScript, HTML5 e CSS, além de habilidades muito úteis na área de gestão de projetos em tecnologia, incluindo Scrum, Kanban e PMBOK.
 
   - ⚡ Gosto de ler, ouvir músicas e assistir filmes! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e ajudam na resolução de problemas.
 </p>
