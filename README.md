@@ -77,6 +77,11 @@
 
 <br clear="both">
 
-</div>
+<p align="center">
+  📫 Fique à vontade para se conectar comigo no 
+  <a href="https://www.linkedin.com/in/santosgustavohenrique/" target="_blank"><strong>LinkedIn</strong></a> 
+  ou entrar em contato por 
+  <a href="mailto:gustavohsantoscontato@gmail.com"><strong>e-mail</strong></a>.
+<p/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
