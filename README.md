@@ -1,79 +1,82 @@
+<!-- gif Azul - Topo -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c">
 
+<!-- Titulo (Bem vindo) -->
 <div align="center">
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+meu+nome+é+Gustavo.;Sou+um+Desenvolvedor+Web.;+Bem-Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
- 
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+meu+nome+é+Gustavo.;Sou+um+Analista+de+Dados.;+Bem-Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+  
 </div>
 
 <br clear="both">
 
+<!-- Apresentação -->
 <p>
-  Olá 👋, sou o Gustavo! Um estudante brasileiro apaixonado por programação e tecnologia.
+  Olá 👋, sou o Gustavo! Profissional em transição para a área de <strong>Dados & Analytics</strong>, com forte interesse em análise, organização e transformação de dados para suporte à tomada de decisão.
 
-  - 🌱 Atualmente estou estudando Desenvolvimento Full-Stack na Escola de Formação DNC e, no curso técnico chamado **DevClub**. Além de cursar superior em **Análise e Desenvolvimento de Sistemas**, no Grupo UniAnchieta.
+  - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
 
+  - 🔭 Estou aberto a oportunidades na área de <strong>Análise de Dados, BI e Analytics</strong>.
 </p>
 
-<p>👨‍💻 Mais sobre mim
+<!-- Dropdown -->
+<p>
+  👨‍💻 <strong>Mais sobre mim</strong>
   
-  - 💬 Atualmente morando em São Paulo, Brasil. Tenho experiência com JavaScript, HTML5 e CSS, além de habilidades muito úteis na área de gestão de projetos em tecnologia, incluindo Scrum, Kanban e PMBOK.
+  - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI, SQL e Python</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas como Scrum, Kanban e fundamentos do PMBOK, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
 
-  - ⚡ Gosto de ler, ouvir músicas e assistir filmes! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e ajudam na resolução de problemas.
+ - 🤝 Atuo com forte <strong>interface com o negócio</strong>, mantendo contato direto com stakeholders e áreas internas, organizando e consolidando informações operacionais e gerenciais, além de fornecer <strong>suporte analítico à tomada de decisão</strong> por meio de dados claros, indicadores e relatórios executivos.
+
+  - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes públicos.
 </p>
 
----
-
-### Minhas skills:
-<div align="left"> 
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-
-</div>
-
-<br clear="both">
-<br clear="both">
-
----
-
-<br clear="both">
-
-<div align="center">
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustavo-Santos-Dev&theme=transparent&card_width=900)](https://git.io/streak-stats)
-
-</div>
-
-<br clear="both">
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
-
-</div>
-
 <br>
-
-<div align="center">
-<p align="center"><b>Contador de Visitas</b></p> 
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Gustavo-Santos-Dev&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
-</div>
-
-<br>
-
-<div align="center">
-<h3> Fale comigo </h3>
+<!-- Links -->
 <a href="https://wa.me/5511916910973?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/santosgustavohenrique/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<br clear="both">
+<br clear="both">
+
+<!-- Skills: Análise de Dados -->
+## 🔥 Skills:
+<div width="100%">
+  <h3>Ferramentas (Dados)</h3>
+  <img alt="Excel" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Excel.svg"/>
+  <img alt="SQL" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img alt="Power BI" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power BI.svg"/>
+  <img alt="Python" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</div>
+
+<br clear="both">
+
+<div>
+  <h3>Outras Ferramentas</h3>
+  <img alt="Git" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="VScode" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Copilot M365" align="left" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/copilot-icon.png"/>
+  <img alt="Microsoft Planner" align="left" height="40" width="40"src="https://github.com/user-attachments/assets/ce464280-2bd2-4f6a-98ae-cf09bbff707c"/>
+
+</div>
+
+<br clear="both">
+<br clear="both">
+
+<!-- Portfolio -->
+## 📊 Portfólio:
+- [Dashboard de Vendas]([Link])
+
+
+<br clear="both">
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</p>
+
+<br clear="both">
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
