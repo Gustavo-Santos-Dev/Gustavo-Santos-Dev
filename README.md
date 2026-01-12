@@ -14,7 +14,7 @@
 <p>
   Olá 👋, sou o Gustavo! Profissional em transição para a área de <strong>Dados & Analytics</strong>, com forte interesse em análise, organização e transformação de dados para suporte à tomada de decisão.
 
-  - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
+  - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a> e <strong>Análise de Dados</strong> na <a href="https://www.hashtagtreinamentos.com/" target="_blank"><strong>Hashtag Treinamentos</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
 
   - 🔭 Estou aberto a oportunidades na área de <strong>Análise de Dados, BI e Analytics</strong>.
 </p>
