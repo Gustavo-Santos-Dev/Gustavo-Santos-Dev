@@ -12,7 +12,7 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou o Gustavo! Profissional em transição para a área de <strong>Dados & Analytics</strong>, com forte interesse em análise, organização e transformação de dados para suporte à tomada de decisão.
+  Olá 👋, sou o Gustavo! Atuo em Dados & Analytics com um foco objetivo: transformar dados em decisões assertivas, garantindo que o dado estratégico chegue com qualidade para gerar impacto real nos negócios.
 
   - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a> e <strong>Análise de Dados</strong> na <a href="https://www.hashtagtreinamentos.com/" target="_blank"><strong>Hashtag Treinamentos</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
 
@@ -25,7 +25,7 @@
   
   - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI, SQL e Python</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas como Scrum, Kanban e fundamentos do PMBOK, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
 
- - 🤝 Atuo com forte <strong>interface com o negócio</strong>, mantendo contato direto com stakeholders e áreas internas, organizando e consolidando informações operacionais e gerenciais, além de fornecer <strong>suporte analítico à tomada de decisão</strong> por meio de dados claros, indicadores e relatórios executivos.
+  - 🤝 Atualmente, faço parte da <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Atuo com forte <strong>interface com o negócio</strong> e contato direto com <strong>stakeholders</strong>, onde organizo e consolido dados de <strong>projetos de tecnologia</strong>. Meu foco é fornecer <strong>suporte analítico à tomada de decisão</strong> através de indicadores claros, consolidando informações operacionais em relatórios executivos de alto impacto.
 
   - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes públicos.
 </p>
