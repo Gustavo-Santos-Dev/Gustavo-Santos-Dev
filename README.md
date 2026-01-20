@@ -12,9 +12,9 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou o Gustavo! Atuo como Analista de Dados, trabalhando com limpeza, organização, análise e visualização de dados para apoiar decisões de negócio.
+  Olá 👋, sou o Gustavo! Atuo como Analista de Dados na <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Tenho forte <strong>interface com o negócio</strong> e <strong>stakeholders</strong>. Trabalho com limpeza, organização, análise e visualização de dados de <strong>projetos de tecnologia</strong>, apoiando a liderança por meio de indicadores e relatórios executivos.
 
-  - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a> e <strong>Análise de Dados</strong> na <a href="https://www.hashtagtreinamentos.com/" target="_blank"><strong>Hashtag Treinamentos</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
+  - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a> e <strong>Análise de Dados</strong> na <a href="https://www.hashtagtreinamentos.com/"      target="_blank"><strong>Hashtag Treinamentos</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
 
   - 🔭 Estou aberto a oportunidades na área de <strong>Análise de Dados e Business Intelligence</strong>.
 </p>
@@ -23,11 +23,9 @@
 <p>
   👨‍💻 <strong>Mais sobre mim</strong>
   
-  - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI, SQL e Python</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas como Scrum, Kanban e fundamentos do PMBOK, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
+  - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI e SQL</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas como Scrum,   Kanban e fundamentos do PMBOK, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
 
-  - 🤝 Atualmente, faço parte da <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Atuo com forte <strong>interface com o negócio</strong> e contato direto com <strong>stakeholders</strong>, onde organizo e consolido dados de <strong>projetos de tecnologia</strong>. Meu foco é fornecer <strong>suporte analítico à tomada de decisão</strong> através de indicadores claros, consolidando informações operacionais em relatórios executivos de alto impacto.
-
-  - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes públicos.
+  - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes     públicos.
 </p>
 
 <br>
