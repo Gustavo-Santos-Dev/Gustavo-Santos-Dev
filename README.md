@@ -12,11 +12,11 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou o Gustavo! Atuo em Dados & Analytics com um foco objetivo: transformar dados em decisões assertivas, garantindo que o dado estratégico chegue com qualidade para gerar impacto real nos negócios.
+  Olá 👋, sou o Gustavo! Atuo como Analista de Dados, trabalhando com limpeza, organização, análise e visualização de dados para apoiar decisões de negócio.
 
   - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a> e <strong>Análise de Dados</strong> na <a href="https://www.hashtagtreinamentos.com/" target="_blank"><strong>Hashtag Treinamentos</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
 
-  - 🔭 Estou aberto a oportunidades na área de <strong>Análise de Dados, BI e Analytics</strong>.
+  - 🔭 Estou aberto a oportunidades na área de <strong>Análise de Dados e Business Intelligence</strong>.
 </p>
 
 <!-- Dropdown -->
