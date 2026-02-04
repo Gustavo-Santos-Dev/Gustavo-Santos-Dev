@@ -1,5 +1,5 @@
 <!-- gif Azul - Topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c">
+<img alt="Gif-Topo" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c">
 
 <!-- Titulo (Bem vindo) -->
 <div align="center">
@@ -82,4 +82,4 @@
   <a href="mailto:gustavohsantoscontato@gmail.com"><strong>e-mail</strong></a>.
 <p/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
+<img alt="Gif-Rodapé" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
